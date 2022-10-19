@@ -1,0 +1,6 @@
+{
+  "person": {
+    "Admob": "1",
+    "Applovin": "2"
+  }
+}

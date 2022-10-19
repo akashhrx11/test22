@@ -1,6 +1,1 @@
-{
-  "person": {
-    "Admob": "1",
-    "Applovin": "2"
-  }
-}
+{"admob":"1","applovin":"Online Batch","adsONOff":true}

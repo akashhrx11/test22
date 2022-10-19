@@ -1,1 +1,5 @@
-{"admob":"1","applovin":"Online Batch","adsONOff":true}
+{
+"admob":1,
+"applovin":"Online Batch",
+"adsONOff":true
+}

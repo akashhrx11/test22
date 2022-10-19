@@ -1,5 +1,5 @@
 {
 "admob":1,
-"applovin":"Online Batch",
+"applovin":2,
 "adsONOff":true
 }

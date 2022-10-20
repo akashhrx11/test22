@@ -1,5 +1,5 @@
 {
-"admob":1,
-"applovin":2,
+"admob":"admob",
+"applovin":"applovin",
 "adsONOff":true
 }

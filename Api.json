@@ -1,31 +1,31 @@
 {
     "topItems": [
         {
-            "image": "https://ibb.co/R943G1g",
-            "name": "test",
+            "image": "https://i.ibb.co/WVcdPTd/profile0.jpg",
+            "name": "General",
             "url": "https://drive.google.com/file/d/1iJJ_H-IFjJZIT2jbjTCq7Lpl4wMlLZjO/preview",
             "isPdf": true
         },
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/qNr6cM9/profile1.jpg",
             "name": "Grow",
             "url": "Earning_with_Amway_Core_Plus_Discretionary_Incentive_Program_(English).pdf",
             "isPdf": true
         },
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/2tdm21x/profile2.jpg",
             "name": "Amway",
             "url": "Amway_Price_list_Apr_23_PC.pdf",
             "isPdf": true
         },
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/vPF3yzk/profile3.jpg",
             "name": "Products",
             "url": "amway-products.pdf",
             "isPdf": true
         },
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/JBt2hPB/profile4.jpg",
             "name": "Update",
             "url": "https://play.google.com/store/apps/details?id=com.amwaycreators.amwayindiaapp.amwayapp",
             "openInBrowser": true
@@ -33,19 +33,20 @@
     ],
     "bannerList": [
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/ZKXV3Yg/sbanner1.jpg",
             "url": "Business_Opportunity_Sales_Pitch_Brochure_General_Hindi.pdf",
-            "isPdf": true
+            "isPdfRewarded": true
+            ,
         },
         {
-            "image": "https://ibb.co/R943G1g",
+            "image": "https://i.ibb.co/tKKK8VW/sbanner2.jpg",
             "url": "Earning_with_Amway_Core_Plus_Discretionary_Incentive_Program_(English).pdf",
-            "isPdf": true
+            "isPdfRewarded": true
         },
         {
-            "image": "https://i.ibb.co/zrHXW1m/my-logo.png",
+            "image": "https://i.ibb.co/s2jQX6Y/sbanner3.jpg",
             "url": "Amway_Price_list_Apr_23_PC.pdf",
-            "isPdf": true
+            "isPdfRewarded": true
         }
     ],
     "pdfList": [
@@ -120,9 +121,10 @@
             "isPdf": true
         }
     ],
-    "sponsor": {
+     "premiumPdf": {
         "image": "https://ibb.co/R943G1g",
-        "link": "https://www.sponsor-website.com"
+        "url": "Rules_of_Conduct_English_-_Jul_22.pdf",
+        "isPdf": true
     },
     "privacyPolicy": {
         "image": "https://ibb.co/R943G1g",
